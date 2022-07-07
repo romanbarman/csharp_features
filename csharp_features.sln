@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32602.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Features.6.0", "CSharp.Features.6.0\CSharp.Features.6.0.csproj", "{A156F9C7-E11E-442C-9DA3-C0F500C5ECF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Features.7.0", "CSharp.Features.7.0\CSharp.Features.7.0.csproj", "{7C0E83AC-EBDF-49AE-B3AB-4CF1149D1BC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A156F9C7-E11E-442C-9DA3-C0F500C5ECF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A156F9C7-E11E-442C-9DA3-C0F500C5ECF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A156F9C7-E11E-442C-9DA3-C0F500C5ECF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0E83AC-EBDF-49AE-B3AB-4CF1149D1BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0E83AC-EBDF-49AE-B3AB-4CF1149D1BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0E83AC-EBDF-49AE-B3AB-4CF1149D1BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0E83AC-EBDF-49AE-B3AB-4CF1149D1BC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
