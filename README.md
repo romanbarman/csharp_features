@@ -24,3 +24,9 @@ The repository contains features from C# versions 6.0 - 10.0.
 6.  [```ref``` returns and locals](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/RefReturnsAndLocals.cs)
 7.  [```throw``` expressions](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/ThrowExpressions.cs)
 8.  [Tuples and deconstruction](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/TuplesAndDeconstruction.cs)
+
+## C# 7.1
+
+1.  [```default``` literals](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.1/DefaultLiterals.cs)
+2.  [Generic pattern matching](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.1/GenericPatternMatching.cs)
+3.  [Inferred tuple element names](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.1/InferredTupleElementNames.cs)
