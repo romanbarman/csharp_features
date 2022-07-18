@@ -13,3 +13,14 @@ The repository contains features from C# versions 6.0 - 10.0.
 8.  [Null propagation](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.6.0/NullPropagation.cs)
 9.  [Static types as ```using```](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.6.0/StaticTypesAsUsing.cs)
 10. [String interpolation](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.6.0/StringInterpolation.cs)
+
+## C# 7.0
+
+1.  [Expression bodied members](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/ExpressionBodiedMembers.cs)
+2.  [Literal improvements](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/LiteralImprovements.cs)
+3.  [Local functions](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/LocalFunctions.cs)
+4.  [```out``` variables](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/OutVariables.cs)
+5.  [Pattern matching](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/PatternMatching.cs)
+6.  [```ref``` returns and locals](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/RefReturnsAndLocals.cs)
+7.  [```throw``` expressions](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/ThrowExpressions.cs)
+8.  [Tuples and deconstruction](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.0/TuplesAndDeconstruction.cs)
