@@ -30,3 +30,13 @@ The repository contains features from C# versions 6.0 - 10.0.
 1.  [```default``` literals](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.1/DefaultLiterals.cs)
 2.  [Generic pattern matching](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.1/GenericPatternMatching.cs)
 3.  [Inferred tuple element names](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.1/InferredTupleElementNames.cs)
+
+## C# 7.2
+
+1.  [Digital separator after base specifier](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/DigitalSeparatorAfterBaseSpecifier.cs)
+2.  [```in``` modifier on parameters](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/InModifierOnParameters.cs)
+3.  [Non-tailing named arguments](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/NonTailingNamedArguments.cs)
+4.  [```readonly struct```](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/ReadonlyStruct.cs)
+5.  [```ref``` conditional expression](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/RefConditionalExpression.cs)
+6.  [```ref readonly``` modifier on method rreturns and locals](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/RefReadonlyModifierOnMethodRreturnsAndLocals.cs)
+7.  [```ref struct```](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/RefStruct.cs)
