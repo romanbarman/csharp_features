@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Features.7.0", "CSha
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Features.7.1", "CSharp.Features.7.1\CSharp.Features.7.1.csproj", "{C05D9234-8612-4807-8658-CE9C609E1DF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Features.7.2", "CSharp.Features.7.2\CSharp.Features.7.2.csproj", "{DE8CD53F-B8BA-48B1-8B6B-FA3DCDE31EDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharp.Features.7.2", "CSharp.Features.7.2\CSharp.Features.7.2.csproj", "{DE8CD53F-B8BA-48B1-8B6B-FA3DCDE31EDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Features.7.3", "CSharp.Features.7.3\CSharp.Features.7.3.csproj", "{441F3BDE-FEF5-46B9-816B-ED538B10B451}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{DE8CD53F-B8BA-48B1-8B6B-FA3DCDE31EDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE8CD53F-B8BA-48B1-8B6B-FA3DCDE31EDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE8CD53F-B8BA-48B1-8B6B-FA3DCDE31EDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{441F3BDE-FEF5-46B9-816B-ED538B10B451}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441F3BDE-FEF5-46B9-816B-ED538B10B451}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441F3BDE-FEF5-46B9-816B-ED538B10B451}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441F3BDE-FEF5-46B9-816B-ED538B10B451}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
