@@ -40,3 +40,9 @@ The repository contains features from C# versions 6.0 - 10.0.
 5.  [```ref``` conditional expression](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/RefConditionalExpression.cs)
 6.  [```ref readonly``` modifier on method rreturns and locals](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/RefReadonlyModifierOnMethodRreturnsAndLocals.cs)
 7.  [```ref struct```](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.2/RefStruct.cs)
+
+## C# 7.3
+
+1.  [Auto-implemented property field targeted attributes](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.3/AutoImplementedPropertyFieldTargetedAttributes.cs)
+2.  [```ref``` local reassignment](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.3/RefLocalReassignment.cs)
+3.  [Tuple equality](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.3/TupleEquality.cs)
