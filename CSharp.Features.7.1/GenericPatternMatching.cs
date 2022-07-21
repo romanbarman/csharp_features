@@ -7,12 +7,19 @@
             Console.WriteLine(Get(new[] { 1 }));
         }
 
-        public int Get<T>(T obj) => obj switch
+        public int Get<T>(T obj)
         {
-            Array _ => 1,
-            string str => str.Length,
-            null => throw new Exception("NULL"),
-            _ => 0,
-        };
+            switch (obj)
+            {
+                case Array _:
+                    return 1;
+                case string str:
+                    return str.Length;
+                case null:
+                    throw new Exception("NULL");
+                default:
+                    return 0;
+            }
+        }
     }
 }

@@ -30,20 +30,35 @@
             }
         }
 
-        public int DeclarationAndTypePatterns(object obj) => obj switch
+        public int SwitchStatementPatternMatching(object obj) 
         {
-            Array _ => 1,
-            string str => str.Length,
-            null => throw new Exception("NULL"),
-            _ => 0,
-        };
+            switch (obj)
+            {
+                case Array _:
+                    return 1;
+                case string str:
+                    return str.Length;
+                case null:
+                    throw new Exception("NULL");
+                default:
+                    return 0;
+            }
+        }
 
-        public decimal ConstantPattern(int i) => i switch
+        public int SwitchStatementWhenConditionPatternMatching(object obj)
         {
-            1 => 10.1m,
-            2 => 20.5m,
-            _ => throw new Exception("No"),
-        };
+            switch (obj)
+            {
+                case Array a when a.IsReadOnly == true:
+                    return 1;
+                case Array a when a.Length == 10:
+                    return 10;
+                case null:
+                    throw new Exception("NULL");
+                default:
+                    return 0;
+            }
+        }
 
         public void VarPattern()
         {
