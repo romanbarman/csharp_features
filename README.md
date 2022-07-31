@@ -46,3 +46,18 @@ The repository contains features from C# versions 6.0 - 10.0.
 1.  [Auto-implemented property field targeted attributes](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.3/AutoImplementedPropertyFieldTargetedAttributes.cs)
 2.  [```ref``` local reassignment](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.3/RefLocalReassignment.cs)
 3.  [Tuple equality](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.7.3/TupleEquality.cs)
+
+## C# 8.0
+
+1.  [Asynchronous streams](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/AsynchronousStreams.cs)
+2.  [Default interface methods](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/DefaultInterfaceMethods.cs)
+3.  [Indices and ranges](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/IndicesAndRanges.cs)
+4.  [Nullable reference types](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/NullableReferenceTypes.cs)
+5.  [Null-coalescing assignment](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/NullCoalescingAssignment.cs)
+6.  [Positional patterns](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/PositionalPatterns.cs)
+7.  [Property patterns](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/PropertyPatterns.cs)
+8.  [```readonly``` members](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/ReadonlyMembers.cs)
+9.  [Static local functions](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/StaticLocalFunctions.cs)
+10. [```switch``` expressions](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/SwitchExpressions.cs)
+11. [Tuple patterns](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/TuplePatterns.cs)
+12. [```using``` declarations](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/UsingDeclarations.cs)
