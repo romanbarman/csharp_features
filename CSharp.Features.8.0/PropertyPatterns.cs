@@ -4,7 +4,7 @@
     {
         public void Run()
         {
-            var person = new Person { Name = "Kiril" };
+            var person = new Person("Kiril");
             person.Id = GetId(person);
         }
 
@@ -20,5 +20,10 @@
     {
         public int Id { get; set; }
         public string Name { get; set; }
+
+        public Person(string name)
+        {
+            Name = name;
+        }
     }
 }
