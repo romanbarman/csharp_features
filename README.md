@@ -61,3 +61,10 @@ The repository contains features from C# versions 6.0 - 10.0.
 10. [```switch``` expressions](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/SwitchExpressions.cs)
 11. [Tuple patterns](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/TuplePatterns.cs)
 12. [```using``` declarations](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.8.0/UsingDeclarations.cs)
+
+## C# 9.0
+
+1.  [Init only setters](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.9.0/InitOnlySetters.cs)
+2.  [Pattern matching enhancements](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.9.0/PatternMatchingEnhancements.cs)
+3.  [Record types](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.9.0/RecordTypes.cs)
+4.  [Target-typed new expressions](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.9.0/TargetTypedNewExpressions.cs)
