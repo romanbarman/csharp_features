@@ -68,3 +68,14 @@ The repository contains features from C# versions 6.0 - 10.0.
 2.  [Pattern matching enhancements](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.9.0/PatternMatchingEnhancements.cs)
 3.  [Record types](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.9.0/RecordTypes.cs)
 4.  [Target-typed new expressions](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.9.0/TargetTypedNewExpressions.cs)
+
+## C# 10.0
+
+1.  [Assignment and declaration in same deconstruction](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.10.0/AssignmentAndDeclarationInSameDeconstruction.cs)
+2.  [Attributes in lambda expression](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.10.0/AttributesInLambdaExpression.cs)
+3.  [Constant interpolated strings](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.10.0/ConstantInterpolatedStrings.cs)
+4.  [Explicit return type](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.10.0/ExplicitReturnType.cs)
+5.  [Extended property patterns](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.10.0/ExtendedPropertyPatterns.cs)
+6.  [File-scoped namespace declaration](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.10.0/FileScopedNamespaceDeclaration.cs)
+7.  [Natural type of a lambda expression](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.10.0/NaturalTypeOfALambdaExpression.cs)
+8.  [Record structs](https://github.com/romanbarman/csharp_features/blob/main/CSharp.Features.10.0/RecordStructs.cs)
